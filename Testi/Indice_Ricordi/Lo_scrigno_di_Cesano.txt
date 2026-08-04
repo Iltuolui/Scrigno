@@ -9,4 +9,4 @@ DATA       | TITOLO STORIA                               | FLAG (SI/NO)
 1985-01-20 | La vaccinazione al petto e l'NDE            | SI
 
            | Tanti libri; troppi libri                   | NO
-           | Che sarà?                                    | NO
+           | Che sarà?                                   | NO
