@@ -5,8 +5,8 @@
 
 DATA       | TITOLO STORIA                               | FLAG (SI/NO)
 -----------|---------------------------------------------|--------------
-1985-05-15 | La marcia forzata a Bracciano e l'autostop  | SI
-1985-01-20 | La vaccinazione al petto e l'NDE            | SI
+2026-08-03 | La marcia forzata a Bracciano e l'autostop  | SI
+2026-08-02 | La vaccinazione al petto e l'NDE            | SI
 
-           | Tanti libri; troppi libri                   | NO
-           | Che sarà?                                   | NO
+           | Tanti libri; troppi libri                   | NO 
+2026-08-04 | Che sarà?                                    | SI
