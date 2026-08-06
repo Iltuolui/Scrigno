@@ -10,3 +10,4 @@ DATA       | TITOLO STORIA                               | FLAG (SI/NO)
 
 2026-08-05   Tanti lbri; troppi libri                   | SI
 2026-08-04 | Che sarà?                                    | SI
+           | Brank Soucek                                 | NO  
